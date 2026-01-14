@@ -1,13 +1,16 @@
-### 🎓 **Computer Science Student** | 🤖 **Data Science & AI Enthusiast** | 🌐 **Web Developer**
+<h1 align="center">Hi 👋, I'm Ramy Arab</h1>
+<h3 align="center">A passionate Ai Engineer from Algeria</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramy-arab&label=Profile%20views&color=0e75b6&style=flat" alt="ramy-arab" /> </p>
+
+
+### 🎓 Computer Science Engineer | 🤖 Data Science & AI Enthusiast | 🌐 Web Developer
 
 I’m passionate about building intelligent systems that solve real-world problems, with a strong focus on **machine learning**, **deep learning**, and **medical image analysis**. I enjoy combining theory with practice through hands-on projects and collaborative teamwork.
 
 
 
-<h1 align="center">Hi 👋, I'm Ramy Arab</h1>
-<h3 align="center">A passionate Ai Engineer from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramy-arab&label=Profile%20views&color=0e75b6&style=flat" alt="ramy-arab" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
