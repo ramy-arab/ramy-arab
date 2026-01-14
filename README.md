@@ -1,3 +1,9 @@
+### 🎓 **Computer Science Student** | 🤖 **Data Science & AI Enthusiast** | 🌐 **Web Developer**
+
+I’m passionate about building intelligent systems that solve real-world problems, with a strong focus on **machine learning**, **deep learning**, and **medical image analysis**. I enjoy combining theory with practice through hands-on projects and collaborative teamwork.
+
+
+
 <h1 align="center">Hi 👋, I'm Ramy Arab</h1>
 <h3 align="center">A passionate Ai Engineer from Algeria</h3>
 
